@@ -1,7 +1,7 @@
 ---
 layout: page
 tagline: Materials and Content for DCF
-title: Instructor site
+title: "Data & Computing Fundamentals"
 ---
 {% include JB/setup %}
 
