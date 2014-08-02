@@ -18,7 +18,7 @@ title: "Data & Computing Fundamentals"
 2. Run `jekyll build --destination "~/Dropbox/Public/DCFcontent"`
 2. Run `jekyll serve` and go to <http://0.0.0.0:4000/>.
 
-## How to Modify the Form
+## How to Modify the Form 
 
 * See <http://jekyllbootstrap.com/usage/jekyll-quick-start.html>.
 * Some themes <http://jekyllthemes.org/>
