@@ -28,7 +28,7 @@ Usage:
       {% if page.url == node.url %}
       <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a> : <em>{{ page.description }} </em> HELLO {{ page.tags }}</li>
       {% else %}
-      <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>: <em>{{node.description}}</em> [ {% for tag in node.tags %} {{ tag }}, {% endfor %} ] </li>
+      <li><a href="{{ BASE_PATH }}/DCF-content{{node.url}}">{{node.title}}</a>: <em>{{node.description}}</em> [ {% for tag in node.tags %} {{ tag }}, {% endfor %} ] </li>
       {% endif %}
     {% endif %}
   {% endfor %}
