@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: DCF-content/:categories/:year/:month/:day/:title.html
+permalink: /:categories/:title.html
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 highlighter: true
@@ -75,7 +75,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : datacomputingfundamentals
+      short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
