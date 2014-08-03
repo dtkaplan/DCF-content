@@ -9,11 +9,11 @@ highlighter: true
 
 topbar:
   - 
-    url : '/usage/index.html'
-    title : 'Start Blogging'
+    url : '/tags.html'
+    title : 'By Tags'
   - 
-    url : '/developers/index.html'
-    title : 'Developers'
+    url : '/categories.html'
+    title : 'By Categories'
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
