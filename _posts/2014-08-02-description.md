@@ -7,3 +7,8 @@ description: |
 ---
 
 How to add a new file.
+
+There was a submodule thing going on with github.  Tried this:
+
+    git submodule update --init
+    
